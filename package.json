@@ -1,0 +1,19 @@
+{
+  "name": "forms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Murberrytree/forms.git"
+  },
+  "author": "mulberrytree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Murberrytree/forms/issues"
+  },
+  "homepage": "https://github.com/Murberrytree/forms#readme"
+}
